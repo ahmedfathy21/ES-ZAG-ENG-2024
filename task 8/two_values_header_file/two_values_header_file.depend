@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1706742165 source:e:\projects_zag_eng\task 8\two_values_header_file\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1706741030 e:\projects_zag_eng\task 8\two_values_header_file\main.h
+

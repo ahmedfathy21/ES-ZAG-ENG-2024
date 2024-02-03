@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1706994580 source:e:\projects_zag_eng\task 8\set_clear_toggle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fun.h"
+
+1706993837 e:\projects_zag_eng\task 8\set_clear_toggle\fun.h
+
+1706994354 source:e:\projects_zag_eng\task 8\set_clear_toggle\fun.c
+	"fun.h"
+
